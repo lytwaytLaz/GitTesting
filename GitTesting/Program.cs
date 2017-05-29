@@ -13,6 +13,8 @@ namespace GitTesting
             Console.WriteLine("The first commit");
 
             Console.WriteLine("The second commit");
+
+            Console.WriteLine("The third commit");
         }
     }
 }
