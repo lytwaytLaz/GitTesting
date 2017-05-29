@@ -10,6 +10,7 @@ namespace GitTesting
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("The first commit");
         }
     }
 }
